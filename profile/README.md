@@ -20,7 +20,7 @@ Each gizmo is designed and directed by a human and written with heavy help from 
 
 - **Use at your own risk.** These are hobby projects with no warranty and no support promise. Read each repo's README before you run anything.
 - **Issues and pull requests are welcome.** Replies may be slow.
-- **Found a security problem?** Report it privately. See the [security policy](https://github.com/AI-Gizmos/.github/blob/main/SECURITY.md).
+- **Found a security problem?** Report it privately. See the [security policy](https://github.com/AI-Gizmos/.github/blob/main/security.md).
 
 ## Disclaimer
 
