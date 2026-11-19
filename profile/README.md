@@ -9,6 +9,9 @@ Everything here started as "I wonder if I could just build that." Some of it is 
 | Gizmo | What it does |
 | --- | --- |
 | [claude-tv](https://github.com/AI-Gizmos/claude-tv) | An ad-free home screen for Android TV and Google TV, plus reversible ADB scripts that switch off preinstalled apps. |
+| [Awake](https://github.com/AI-Gizmos/Awake) | A tiny macOS menu bar app that keeps your Mac from sleeping, with one-click toggle and timed sessions. |
+| [ClaudeDrop](https://github.com/AI-Gizmos/ClaudeDrop) | A hotkey drop box for links, notes, screenshots and files on macOS, filed by project so Claude can read them later through a local MCP connector. |
+| [ClipShelf](https://github.com/AI-Gizmos/ClipShelf) | A searchable clipboard history for macOS that pastes past clips back with a hotkey and keeps everything on your Mac. |
 
 More on the way.
 
